@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "depTypeList": ["devDependencies"],
+      "automerge": false
+    }
+  ],
+  "extends": ["config:base"]
+}
